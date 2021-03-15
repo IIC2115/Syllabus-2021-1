@@ -71,7 +71,7 @@
 -->
 
 ## Notas
-Las notas oficiales se irán actualizando en SIDING.
+Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING).
 
 
 ## Entregas atrasadas de laboratorios
