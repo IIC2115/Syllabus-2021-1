@@ -29,6 +29,11 @@
 | 1        | Resumen parte a |  Zoom      | Lunes 22/03  | 4      | [Video](https://youtu.be/Aq_VkJdTPJ4) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%201/Parte%20a/Slides/01%20-%20Fundamentos%20de%20OOP.pdf) - [Código](../../tree/master/Material%20de%20clases/Capítulo%201/Parte%20a) |
 | 1        | Taller T1a      |  Discord   | Lunes 22/03  | 5      | [Enunciado](../../blob/main/Talleres/T1a/T1a.pdf) |
 | 1        | Ayudantía T1a   |  Zoom      | Jueves 25/03 | 5      | Video - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1a/Ay_T1a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1a/Ay_T1a.ipynb) |
+| 1        | Resumen parte a |  Zoom      | Lunes 29/03  | 4      | [Video]() - [Slides]() - [Código]() |
+| 1        | Taller T1b      |  Discord   | Lunes 29/03  | 5      | [Enunciado]() |
+| 1        | Jueves santo      |  -   | Jueves 01/04  | 5      |  |
+| 1        | Ayudantía T1b   |  Zoom      | Lunes 05/04 | 4      | Video - [Slides]() - [Código]() |
+| 1        | Actividad 1   |  Discord      | Lunes 05/04 | 5      | [Enunciado]() |
 
 <!--| L01 | Resumen materia capítulo                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Introducción.pdf)|
 | L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    | [Video](https://youtu.be/PbKdwaoWkJ8) - [Enunciado](../../blob/master/Laboratorios/L01/L01.pdf)|
