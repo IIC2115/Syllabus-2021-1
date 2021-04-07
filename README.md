@@ -22,6 +22,9 @@
 
 
 ## Calendario 
+<details open>
+<summary>Capítulo 1</summary>
+<br>
 
 | Capítulo |	Instancia    | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:             | :-:        | :-:          | :-:    | :-:      |
@@ -35,6 +38,90 @@
 | 1        | Ayudantía T1b   |  Zoom      | Lunes 05/04 | 4      | [Video](https://youtu.be/INXBajFnJVg) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1b/Ay_T1b.pdf) - [Código](https://nbviewer.jupyter.org/github/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T1b/Ay_T1b.ipynb) |
 | 1        | Actividad 1   |  Discord      | Lunes 05/04 | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
 | 1        | Actividad 1      |  Discord   | Jueves 08/04  | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
+
+</details>
+
+<details>
+<summary>Capítulo 2</summary>
+<br>
+   
+| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
+| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
+| 2        | Resumen parte a      |  Zoom      | Lunes 12/04  | 4      | Video - Slides - Código |
+| 2        | Taller parte a       |  Discord   | Lunes 12/04  | 5      | Enunciado |
+| 2        | Ayudantía parte a    |  Zoom      | Jueves 15/04 | 5      | Video - Slides - Código |
+| 2        | Resumen parte b      |  Zoom      | Lunes 19/04  | 4      | Video - Slides - Código |
+| 2        | Taller parte b       |  Discord   | Lunes 19/04  | 5      | Enunciado |
+| 2        | Ayudantía parte b    |  Zoom      | Jueves 22/04 | 5      | Video - Slides - Código |
+| 2        | Actividad práctica   |  Discord   | Lunes 26/04  | 4-5    | Enunciado |
+| 2 - 3    | Lectura enunciado L1 |  Zoom      | Jueves 29/04 | 5      | Enunciado |
+
+</details>
+
+<details>
+<summary>Capítulo 3</summary>
+<br>
+   
+| Capítulo |	Instancia        | Plataforma | Fecha        | Módulo | Recursos |
+| :-:      | :-:                | :-:        | :-:          | :-:    | :-:      |
+| 3        | Resumen parte a    |  Zoom      | Lunes 03/05  | 4      | Video - Slides - Código |
+| 3        | Taller parte a     |  Discord   | Lunes 03/05  | 5      | Enunciado |
+| 3        | Ayudantía parte a  |  Zoom      | Jueves 06/05 | 5      | Video - Slides - Código |
+| -        | Semana receso      |  -         | -            | -      | - |
+| 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | Video - Slides - Código |
+| 3        | Taller parte b     |  Discord   | Lunes 17/05  | 5      | Enunciado |
+| 3        | Ayudantía parte b  |  Zoom      | Jueves 20/05 | 5      | Video - Slides - Código |
+| 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
+
+</details>
+
+<details>
+<summary>Capítulo 4</summary>
+<br>
+   
+| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
+| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
+| 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | Video - Slides - Código |
+| 4        | Taller parte a       |  Discord   | Lunes 31/05  | 5      | Enunciado |
+| 4        | Ayudantía parte a    |  Zoom      | Jueves 03/06 | 5      | Video - Slides - Código |
+| 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | Video - Slides - Código |
+| 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | Enunciado |
+| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | Video - Slides - Código |
+| 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | Enunciado |
+| 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | Enunciado |
+
+</details>
+
+
+<details>
+<summary>Capítulo 5</summary>
+<br>
+   
+| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
+| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
+| 5        | Resumen parte a      |  Zoom      | Lunes 21/05  | 4      | Video - Slides - Código |
+| 5        | Taller parte a       |  Discord   | Lunes 21/05  | 5      | Enunciado |
+| 5        | Ayudantía parte a    |  Zoom      | Jueves 24/06 | 5      | Video - Slides - Código |
+| -        | Feriado              |  -         | Lunes 28/06 | -      | - |
+| 5        | Ayudantía parte b    |  Zoom      | Jueves 01/07 | 5      | Video - Slides - Código |
+| 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | Enunciado |
+
+
+</details>
+
+
+<!--| Esto es simplemente para tener el template para copy paste en un furuto semestre
+| Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
+| :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
+| 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | Video - Slides - Código |
+| 4        | Taller parte a       |  Discord   | Lunes 31/05  | 5      | Enunciado |
+| 4        | Ayudantía parte a    |  Zoom      | Jueves 03/06 | 5      | Video - Slides - Código |
+| 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | Video - Slides - Código |
+| 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | Enunciado |
+| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | Video - Slides - Código |
+| 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | Enunciado |
+| 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | Enunciado |
+-->
 
 <!--| L01 | Resumen materia capítulo                     |  Zoom      | lunes 10 de agosto      |   5    | [Video](https://youtu.be/Xy_UMYjQwiw) - [Slides](../../blob/master/Material%20de%20clases/Capítulo%201/Introducción.pdf)|
 | L01 | Revisión de enunciado       	              |  Zoom      | jueves 13 de agosto     |   5    | [Video](https://youtu.be/PbKdwaoWkJ8) - [Enunciado](../../blob/master/Laboratorios/L01/L01.pdf)|
