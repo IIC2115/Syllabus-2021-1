@@ -39,9 +39,9 @@
 | 1        | Actividad 1   |  Discord      | Lunes 05/04 | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
 | 1        | Actividad 1      |  Discord   | Jueves 08/04  | 5      | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A1/A1.pdf) |
 
-</details open>
+</details>
 
-<details>
+<details open>
 <summary>Capítulo 2</summary>
 <br>
    
