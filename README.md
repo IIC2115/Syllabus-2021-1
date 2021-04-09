@@ -22,7 +22,7 @@
 
 
 ## Calendario 
-<details open>
+<details>
 <summary>Capítulo 1</summary>
 <br>
 
