@@ -47,7 +47,7 @@
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 2        | Resumen parte a      |  Zoom      | Lunes 12/04  | 4      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
+| 2        | Resumen parte a      |  Zoom      | Lunes 12/04  | 4      | Video - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Estructuras%20de%20datos%20avanzadas.pdf) - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
 | 2        | Taller parte a       |  Discord   | Lunes 12/04  | 5      | Enunciado |
 | 2        | Ayudantía parte a    |  Zoom      | Jueves 15/04 | 5      | Video - Slides - Código |
 | 2        | Resumen parte b      |  Zoom      | Lunes 19/04  | 4      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
