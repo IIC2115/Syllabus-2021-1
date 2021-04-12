@@ -72,6 +72,7 @@
 | 3        | Taller parte b     |  Discord   | Lunes 17/05  | 5      | Enunciado |
 | 3        | Ayudantía parte b  |  Zoom      | Jueves 20/05 | 5      | Video - Slides - Código |
 | 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
+| 2 - 3    | Entrega L1         | -          | Jueves 27/05  | -      |           |
 
 </details>
 
@@ -102,15 +103,16 @@
 | 5        | Resumen parte a      |  Zoom      | Lunes 21/05  | 4      | Video - Slides - Código |
 | 5        | Taller parte a       |  Discord   | Lunes 21/05  | 5      | Enunciado |
 | 5        | Ayudantía parte a    |  Zoom      | Jueves 24/06 | 5      | Video - Slides - Código |
-| -        | Feriado              |  -         | Lunes 28/06 | -      | - |
+| -        | Feriado              |  -         | Lunes 28/06  | -      | - |
 | 5        | Ayudantía parte b    |  Zoom      | Jueves 01/07 | 5      | Video - Slides - Código |
 | 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | Enunciado |
+| 4 - 5    | Entrega L2           | -          | Jueves 08/07 | -      |           |
 
 
 </details>
 
 
-<!--| Esto es simplemente para tener el template para copy paste en un furuto semestre
+<!--| Esto es simplemente para tener el template para copy paste en un futuro semestre
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
 | 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | Video - Slides - Código |
