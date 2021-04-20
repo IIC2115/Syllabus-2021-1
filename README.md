@@ -50,8 +50,8 @@
 | 2        | Resumen parte a      |  Zoom      | Lunes 12/04  | 4      | [Video](https://youtu.be/qDUlhQFiST0) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20a/Slides/01%20-%20Estructuras%20de%20datos%20avanzadas.pdf) - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20a) |
 | 2        | Taller parte a       |  Discord   | Lunes 12/04  | 5      | [Enunciado](../../blob/main/Talleres/T2a/T2a.pdf) |
 | 2        | Ayudantía parte a    |  Zoom      | Jueves 15/04 | 5      | [Video](https://youtu.be/TtDTYmKcCs0) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2a/Ay_T2a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2a/Ay_T2a.ipynb) |
-| 2        | Resumen parte b      |  Zoom      | Lunes 19/04  | 4      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
-| 2        | Taller parte b       |  Discord   | Lunes 19/04  | 5      | Enunciado |
+| 2        | Resumen parte b      |  Zoom      | Lunes 19/04  | 4      | [Video](https://youtu.be/JxJX0Brp4ZY) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%202/Parte%20b/Slides/01%20-%20Técnicas%20y%20Algoritmos.pdf) - [Código](../../tree/main/Material%20de%20clases/Cap%C3%ADtulo%202/Parte%20b) |
+| 2        | Taller parte b       |  Discord   | Lunes 19/04  | 5      | [Enunciado](../../blob/main/Talleres/T2b/T2b.pdf) |
 | 2        | Ayudantía parte b    |  Zoom      | Jueves 22/04 | 5      | Video - Slides - Código |
 | 2        | Actividad práctica   |  Discord   | Lunes 26/04  | 4-5    | Enunciado |
 | 2 - 3    | Lectura enunciado L1 |  Zoom      | Jueves 29/04 | 5      | Enunciado |
