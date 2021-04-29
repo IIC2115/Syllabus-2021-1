@@ -54,7 +54,7 @@
 | 2        | Taller parte b       |  Discord   | Lunes 19/04  | 5      | [Enunciado](../../blob/main/Talleres/T2b/T2b.pdf) |
 | 2        | Ayudantía parte b    |  Zoom      | Jueves 22/04 | 5      | [Video](https://youtu.be/1YAQDkBzpOE) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ay_T2b.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T2b/Ay_T2b.ipynb) |
 | 2        | Actividad práctica   |  Discord   | Lunes 26/04  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A2/A2.pdf) |
-| 2 - 3    | Lectura enunciado L1 |  Zoom      | Jueves 29/04 | 5      | Video - [Enunciado](../../blob/main/Laboratorios/L1/L1.pdf) |
+| 2 - 3    | Lectura enunciado L1 |  Zoom      | Jueves 29/04 | 5      | [Video](https://youtu.be/2TonIlwAu08) - [Enunciado](../../blob/main/Laboratorios/L1/L1.pdf) |
 
 </details>
 
