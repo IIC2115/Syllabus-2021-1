@@ -64,7 +64,7 @@
    
 | Capítulo |	Instancia        | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                | :-:        | :-:          | :-:    | :-:      |
-| 3        | Resumen parte a    |  Zoom      | Lunes 03/05  | 4      | Video - Slides - Código |
+| 3        | Resumen parte a    |  Zoom      | Lunes 03/05  | 4      | Video - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
 | 3        | Taller parte a     |  Discord   | Lunes 03/05  | 5      | Enunciado |
 | 3        | Ayudantía parte a  |  Zoom      | Jueves 06/05 | 5      | Video - Slides - Código |
 | -        | Semana receso      |  -         | -            | -      | - |
