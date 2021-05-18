@@ -66,10 +66,10 @@
 | :-:      | :-:                | :-:        | :-:          | :-:    | :-:      |
 | 3        | Resumen parte a    |  Zoom      | Lunes 03/05  | 4      | [Video](https://youtu.be/wR_o-_U7bCY) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20a/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20a) |
 | 3        | Taller parte a     |  Discord   | Lunes 03/05  | 5      | [Enunciado](../../blob/main/Talleres/T3a/T3a.pdf) |
-| 3        | Ayudantía parte a  |  Zoom      | Jueves 06/05 | 5      | [Video](https://youtu.be/JcXo-jQWex8) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.ipynb) |
+| 3        | Ayudantía parte a  |  Zoom      | Jueves 06/05 | 5      | [Video](https://youtu.be/JcXo-jQWex8) - [Slides](../../blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.pdf) - [Código](../../blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.ipynb) |
 | -        | Semana receso      |  -         | -            | -      | - |
-| 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | Video - Slides - Código |
-| 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | Video - Código |
+| 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Código](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
+| 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
 | 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | Enunciado |
 | 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | -      | Video - Slides - Código |
 | 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
