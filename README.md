@@ -71,7 +71,7 @@
 | 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | Video - Slides - Código |
 | 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | Video - Código |
 | 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | Enunciado |
-| 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | 5      | Video - Slides - Código |
+| 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | -      | Video - Slides - Código |
 | 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
 | 2 - 3    | Entrega L1         | -          | Jueves 27/05 | -      |           |
 
