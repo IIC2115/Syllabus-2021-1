@@ -69,10 +69,11 @@
 | 3        | Ayudantía parte a  |  Zoom      | Jueves 06/05 | 5      | [Video](https://youtu.be/JcXo-jQWex8) - [Slides](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T3a/Ay_T3a.ipynb) |
 | -        | Semana receso      |  -         | -            | -      | - |
 | 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | Video - Slides - Código |
-| 3        | Taller parte b     |  Discord   | Lunes 17/05  | 5      | Enunciado |
-| 3        | Ayudantía parte b  |  Zoom      | Jueves 20/05 | 5      | Video - Slides - Código |
+| 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | Video - Código |
+| 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | Enunciado |
+| 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | 5      | Video - Slides - Código |
 | 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
-| 2 - 3    | Entrega L1         | -          | Jueves 27/05  | -      |           |
+| 2 - 3    | Entrega L1         | -          | Jueves 27/05 | -      |           |
 
 </details>
 
