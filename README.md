@@ -70,7 +70,7 @@
 | -        | Semana receso      |  -         | -            | -      | - |
 | 3        | Resumen parte b    |  Zoom      | Lunes 17/05  | 4      | [Video](https://youtu.be/QU3c1winhzk) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/Slides/01%20-%20Consultas%20en%20SQL.pdf) - [Código](../../blob/main/Material%20de%20clases/Capítulo%203/Parte%20b/01%20-%20Consultas%20sobre%20bases%20de%20datos%20relacionales.ipynb) |
 | 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
-| 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | Enunciado |
+| 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | [Enunciado](../../blob/main/Talleres/T3b/T3b.pdf) |
 | 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | -      | Video - Slides - Código |
 | 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
 | 2 - 3    | Entrega L1         | -          | Jueves 27/05 | -      |           |
