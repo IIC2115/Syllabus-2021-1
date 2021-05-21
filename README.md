@@ -41,7 +41,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2</summary>
 <br>
    
