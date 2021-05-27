@@ -72,8 +72,8 @@
 | 3        | Ejercicios parte b |  Zoom      | Lunes 17/05  | 5      | [Video](https://youtu.be/aqkHNvBtzPE) - [Código](../../tree/main/Material%20de%20clases/Capítulo%203/Parte%20b/Ejemplos) |
 | 3        | Taller parte b     |  Discord   | Jueves 20/05 | 5      | [Enunciado](../../blob/main/Talleres/T3b/T3b.pdf) |
 | 3        | Ayudantía parte b  |  Youtube   | Jueves 20/05 | -      | [Video](https://youtu.be/dFUTLExY-RI) - [Código](../../blob/main/Ayudantías/T3b/Ay_T3b.ipynb) |
-| 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | Enunciado |
-| 2 - 3    | Entrega L1         | -          | Jueves 27/05 | -      |           |
+| 3        | Actividad práctica |  Discord   | Lunes 24/05  | 4-5    | [Enunciado](../../blob/main/Actividades%20Pr%C3%A1cticas/A3/A3.pdf) |
+| -        | Libre              | -          | Jueves 27/05 | -      |           |
 
 </details>
 
