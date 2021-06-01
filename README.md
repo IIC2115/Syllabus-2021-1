@@ -58,7 +58,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 3</summary>
 <br>
    
@@ -77,14 +77,14 @@
 
 </details>
 
-<details>
+<details open>
 <summary>Capítulo 4</summary>
 <br>
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | Video - Slides - Código |
-| 4        | Taller parte a       |  Discord   | Lunes 31/05  | 5      | Enunciado |
+| 4        | Resumen parte a      |  Zoom      | Lunes 31/05  | 4      | [Video](https://youtu.be/wzNrd-3q65s) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20a/Slides/01%20-%20Exploración%2C%20limpieza%20y%20depuración%20de%20datos.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20a) |
+| 4        | Taller parte a       |  Discord   | Lunes 31/05  | 5      | [Enunciado](../../blob/main/Talleres/T4a/T4a.pdf) |
 | 4        | Ayudantía parte a    |  Zoom      | Jueves 03/06 | 5      | Video - Slides - Código |
 | 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | Video - Slides - Código |
 | 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | Enunciado |
