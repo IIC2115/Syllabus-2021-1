@@ -88,7 +88,7 @@
 | 4        | Ayudantía parte a    |  Zoom      | Jueves 03/06 | 5      | [Video](https://youtu.be/tpb3wL7QY5I) - [Código](../../blob/main/Ayudantías/T4a/Ay_T4a.ipynb) |
 | 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | [Video](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) |
 | 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
-| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | Video - Slides - Código |
+| 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | [Video](https://youtu.be/sUbl5y4RwqE) - [Código](../../blob/main/Ayudantías/T4b/Ay_T4b.ipynb) |
 | 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | Enunciado |
 | 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | Enunciado |
 
