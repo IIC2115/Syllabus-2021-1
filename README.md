@@ -89,7 +89,7 @@
 | 4        | Resumen parte b      |  Zoom      | Lunes 07/06  | 4      | [Video](https://youtu.be/jDaeLLpY7FU) - [Slides](../../blob/main/Material%20de%20clases/Capítulo%204/Parte%20b/Slides/01%20-%20Modelos%20predictivos%20con%20ML.pdf) - [Código](../../tree/main/Material%20de%20clases/Capítulo%204/Parte%20b) |
 | 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
 | 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | [Video](https://youtu.be/sUbl5y4RwqE) - [Código](../../blob/main/Ayudantías/T4b/Ay_T4b.ipynb) |
-| 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | Enunciado |
+| 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A4/A4.pdf) |
 | 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | Enunciado |
 
 </details>
@@ -101,9 +101,9 @@
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 5        | Resumen parte a      |  Zoom      | Lunes 21/05  | 4      | Video - Slides - Código |
+| 5        | Resumen parte a      |  Zoom      | Lunes 21/05  | 4      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) |
 | 5        | Taller parte a       |  Discord   | Lunes 21/05  | 5      | Enunciado |
-| 5        | Ayudantía parte a    |  Zoom      | Jueves 24/06 | 5      | Video - Slides - Código |
+| 5        | Ayudantía parte a    |  Zoom      | Jueves 24/06 | 5      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) |
 | -        | Feriado              |  -         | Lunes 28/06  | -      | - |
 | 5        | Ayudantía parte b    |  Zoom      | Jueves 01/07 | 5      | Video - Slides - Código |
 | 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | Enunciado |
