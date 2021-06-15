@@ -17,7 +17,7 @@
 
     Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios y **P** es la nota de participación (promedio 7 mejores talleres).
 
-2. Para aprobar, A, L y P deben ser mayores o iguales a 3,95.
+2. Para aprobar, A, L ~~y P~~ deben ser mayores o iguales a 3,95.
 3. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
 
 
