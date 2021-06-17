@@ -95,19 +95,19 @@
 </details>
 
 
-<details>
+<details open>
 <summary>Capítulo 5</summary>
 <br>
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 5        | Resumen parte a      |  Zoom      | Lunes 21/05  | 4      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) |
-| 5        | Taller parte a       |  Discord   | Lunes 21/05  | 5      | Enunciado |
-| 5        | Ayudantía parte a    |  Zoom      | Jueves 24/06 | 5      | Video - Slides - [Código](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b) |
+| 5        | Resumen parte a y b (hasta 1:46:33)  |  Youtube   | -            | -      | [Video](https://youtu.be/NDnJn9QxKO8) - Slides - [Código a](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Código b](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b)|
+| -        | Feriado       |  -   | Lunes 21/05  | -      | - |
+| -        | Feriado     |  -      | Jueves 24/06 | -      | -  |
 | -        | Feriado              |  -         | Lunes 28/06  | -      | - |
-| 5        | Ayudantía parte b    |  Zoom      | Jueves 01/07 | 5      | Video - Slides - Código |
+| 5        | Ayudantía preparación A5    |  Zoom      | Jueves 01/07 | 5      | Video - Slides - Código |
 | 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | Enunciado |
-| 4 - 5    | Entrega L2           | -          | Jueves 08/07 | -      |           |
+| 4        | Entrega L2           | -          | Jueves 08/07 | -      |           |
 
 
 </details>
