@@ -90,7 +90,7 @@
 | 4        | Taller parte b       |  Discord   | Lunes 07/06  | 5      | [Enunciado](../../blob/main/Talleres/T4b/T4b.pdf) |
 | 4        | Ayudantía parte b    |  Zoom      | Jueves 11/06 | 5      | [Video](https://youtu.be/sUbl5y4RwqE) - [Código](../../blob/main/Ayudantías/T4b/Ay_T4b.ipynb) |
 | 4        | Actividad práctica   |  Discord   | Lunes 14/06  | 4-5    | [Enunciado](../../blob/main/Actividades%20Prácticas/A4/A4.pdf) |
-| 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | Enunciado |
+| 4 - 5    | Lectura enunciado L2 |  Zoom      | Jueves 17/06 | 5      | [Video](https://youtu.be/XuoEn7_wRZI) - [Enunciado](../../blob/main/Laboratorios/L2/L2.pdf) |
 
 </details>
 
@@ -101,7 +101,7 @@
    
 | Capítulo |	Instancia          | Plataforma | Fecha        | Módulo | Recursos |
 | :-:      | :-:                  | :-:        | :-:          | :-:    | :-:      |
-| 5        | Resumen parte a y b (hasta 1:46:33)  |  Youtube   | -            | -      | [Video](https://youtu.be/NDnJn9QxKO8) - Slides - [Código a](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Código b](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b)|
+| 5        | Resumen parte a y b (hasta 1:46:33)  |  Youtube   | -            | -      | [Video](https://youtu.be/NDnJn9QxKO8) - [Código a](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20a) - [Código b](../../tree/main/Material%20de%20clases/Capítulo%205/Parte%20b)|
 | -        | Feriado       |  -   | Lunes 21/05  | -      | - |
 | -        | Feriado     |  -      | Jueves 24/06 | -      | -  |
 | -        | Feriado              |  -         | Lunes 28/06  | -      | - |
