@@ -15,7 +15,7 @@
 
     **NC = 0,5 x A + 0,4 x L + 0,1 x P**
 
-    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios y **P** es la nota de participación (promedio 7 mejores talleres).
+    Donde **A** es el promedio de las actividades prácticas, **L** el promedio de los laboratorios calculado de la forma `L = (min{L1;L2}+1,5*max{L1;L2})/2,5` y **P** es la nota de participación (promedio 7 mejores talleres).
 
 2. Para aprobar, A, L ~~y P~~ deben ser mayores o iguales a 3,95.
 3. Si el alumno cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
@@ -108,7 +108,7 @@
 | -        | Feriado              |  -         | Lunes 28/06  | -      | - |
 | 5        | Ayudantía preparación A5    |  Zoom      | Jueves 01/07 | 5      | [Video](https://youtu.be/1IafpcV-9YI) - [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Enunciado_Ay_C5.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Ay_C5.ipynb) |
 | 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | Enunciado |
-| 4        | Entrega L2           | -          | Jueves 08/07 | -      |           |
+| 4        | Entrega L2           | -          | Jueves 15/07 | -      |           |
 
 
 </details>
