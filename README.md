@@ -107,8 +107,8 @@
 | -        | Feriado     |  -      | Jueves 24/06 | -      | -  |
 | -        | Feriado              |  -         | Lunes 28/06  | -      | - |
 | 5        | Ayudantía preparación A5    |  Zoom      | Jueves 01/07 | 5      | [Video](https://youtu.be/1IafpcV-9YI) - [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Enunciado_Ay_C5.pdf) - [Código](https://github.com/IIC2115/Syllabus/blob/main/Ayudant%C3%ADas/T5/Ay_C5.ipynb) |
-| 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | Enunciado |
-| 4        | Entrega L2           | -          | Jueves 15/07 | -      |           |
+| 5        | Actividad práctica   |  Discord   | Lunes 05/07  | 4-5    | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Actividades%20Pr%C3%A1cticas/A5/A5.pdf) |
+| 4        | Entrega L2           | -          | Viernes 16/07 | -      |           |
 
 
 </details>
